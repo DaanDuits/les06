@@ -5,23 +5,23 @@
 ## BENODIGDHEDEN
 
 * Honing-mosterdsaus
-  1. 3 el mayonaise
-  2. 2 tl (Zaanse) grove mosterd
-  3. 1 el honing
-  4. kneepje citroensap
-  5. snufje paprikapoeder
-  6. versgemalen zout en peper
+  * 3 el mayonaise
+  * 2 tl (Zaanse) grove mosterd
+  * 1 el honing
+  * kneepje citroensap
+  * snufje paprikapoeder
+  * versgemalen zout en peper
 * Chicken tenders
-    1. 2 kipfilets in lange repen gesneden
-    2. versgemalen zout en peperchilipoeder
-    3. 60 gr bloemknoflookpoeder
-    4. 1/4 tl baking soda
-    5. 1 ei
-    6. 2 el melk
-    7. 1,5 tl tabasco
-    8. 100 gr panko (te vinden in de supermarkt naast het paneermeel)
-    9. zonnebloemolie
-    10. eventueel wat versgehakte peterselie
+  * 2 kipfilets in lange repen gesneden
+  * versgemalen zout en peperchilipoeder
+  * 60 gr bloemknoflookpoeder
+  * 1/4 tl baking soda
+  * 1 ei
+  * 2 el melk
+  * 1,5 tl tabasco
+  * 100 gr panko (te vinden in de supermarkt naast het paneermeel)
+  * zonnebloemolie
+  * eventueel wat versgehakte peterselie
 
 ## BEREIDING
 
